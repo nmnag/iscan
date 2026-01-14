@@ -19,7 +19,7 @@
     "expo-updates": "~0.2.10",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
-    "react-native": "~0.62.2",
+    "react-native": "~0.82.1",
     "react-native-document-scanner": "git+https://github.com/Michaelvilleneuve/react-native-document-scanner.git",
     "react-native-gesture-handler": "~1.6.1",
     "react-native-perspective-image-cropper": "^0.4.4",
